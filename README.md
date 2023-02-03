@@ -1,4 +1,4 @@
-Hi! My name is Nick and I'm in the final quarter of the Master of Science in Business Analytics (MSBA) program at Seattle University. Before this, I worked in the music industry and KEXP said I had a "massive impact" during my time there. I have a successful history of creating well-known brands and I'm now equipped with data-driven skills. If you'd like to chat, please feel free to reach out!
+Hi! My name is Nick and I'm in the final quarter of the Master of Science in Business Analytics (MSBA) program at Seattle University. Before this, I worked in the music industry and KEXP said I had a "massive impact" during my time there. I have a successful history of creating well-known brands and I'm now equipped with data-driven skills. If you'd like to chat, please feel free to <a href='https://www.linkedin.com/in/nick-carroll1/'>reach out</a>!
 
 💡 <b>My Skills</b>
 * Data preparation, quality assurance, and analysis
