@@ -1,12 +1,10 @@
-### Hi there 👋
-
-### My Skills
+💡 <b>My Skills</b>
 * Data preparation, quality assurance, and analysis
 * Database design and modelling
 * Dashboard development and reporting
 * Exploratory data analysis
 
-🛠️ ### My Tools
+🛠️ <b> My Tools</b>
 - Databases: SQL (PostgreSQL, MySQL, SQL Server), Excel, Google Sheets
 - Python: NumPy, Pandas
 - R: (ggplot2, dplyr, Tidyverse)
