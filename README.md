@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+💡 ### My Skills
+* Data preparation, quality assurance, and analysis
+* Database design and modelling
+* Dashboard development and reporting
+* Exploratory data analysis
+
+🛠️ ### My Tools
+- Databases: SQL (PostgreSQL, MySQL, SQL Server), Excel, Google Sheets
+- Python: NumPy, Pandas
+- R: (ggplot2, dplyr, Tidyverse)
+- Visualisation / BI Tools: Tableau, Matplotlib, Seaborn, Plotly, Periscope Analytics
+- Project Management: Trello, JIRA
+
 <!--
 **nbcarroll/nbcarroll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
