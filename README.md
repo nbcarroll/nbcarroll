@@ -9,7 +9,7 @@
 - Python: NumPy, Pandas
 - R: (ggplot2, dplyr, Tidyverse)
 - Visualisation / BI Tools: Tableau, Matplotlib, Seaborn, Plotly, Periscope Analytics
-- Project Management: Trello, JIRA
+- Project Management: Asana, Monday.com
 
 <!--
 **nbcarroll/nbcarroll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
