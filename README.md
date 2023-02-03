@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💡 ### My Skills
+### My Skills
 * Data preparation, quality assurance, and analysis
 * Database design and modelling
 * Dashboard development and reporting
