@@ -2,15 +2,15 @@ Hi! My name is Nick and I'm in the final quarter of the Master of Science in Bus
 
 💡 <b>My Skills</b>
 * Data preparation, quality assurance, and analysis
-* Database design and modelling
 * Dashboard development and reporting
 * Exploratory data analysis
+* Machine learning model development
 
 🛠️ <b> My Tools</b>
 - Databases: SQL (PostgreSQL, MySQL, SQL Server), Excel, Google Sheets
 - Python: NumPy, Pandas
 - R: (ggplot2, dplyr, Tidyverse)
-- Visualisation / BI Tools: Tableau, Matplotlib, Seaborn, Plotly, Periscope Analytics
+- Visualization / BI Tools: Tableau, Matplotlib, Seaborn, Plotly, Periscope Analytics
 - Project Management: Asana, Monday.com
 
 <!--
