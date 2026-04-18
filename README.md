@@ -1,29 +1,13 @@
-Hi! My name is Nick and I recently graduated from the Master of Science in Business Analytics (MSBA) program at Seattle University. Before this, I worked in the music industry and KEXP said I had a "massive impact" during my time there. I have a successful history of creating well-known brands and I'm now equipped with data-driven skills. If you'd like to chat, please feel free to <a href='https://www.linkedin.com/in/nick-carroll1/'>reach out</a>!
+# Hi, I'm Nick 👋
+Data analyst · DJ · event producer · Seattle
 
-💡 <b>My Skills</b>
-* Data preparation, quality assurance, and analysis
-* Dashboard development and reporting
-* Exploratory data analysis
-* Machine learning model development
+I'm a data analyst at VML (WPP) in Seattle, working across marketing analytics: dashboards, reporting pipelines, and exploratory analysis for clients. I hold an MS in Business Analytics from Seattle University (2023) and have a background that bridges data, music, and brand-building. Outside of my the day job, I run **Research Seattle LLC**, an independent electronic music event production company. I've spent 10+ years in the Seattle music scene, including a long stint booking at Kremwerk.
 
-🛠️ <b> My Tools</b>
-- Databases: SQL (PostgreSQL, MySQL, SQL Server), Excel, Google Sheets
-- Python: NumPy, Pandas
-- R: (ggplot2, dplyr, Tidyverse)
-- Visualization / BI Tools: Tableau, Matplotlib, Seaborn, Plotly, Periscope Analytics
-- Project Management: Asana, Monday.com
-
-<!--
-**nbcarroll/nbcarroll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Data wrangling, transformation, and quality assurance
+- Dashboard development, KPI reporting, and stakeholder communication
+- Exploratory data analysis and statistical modeling
+- Machine learning model development and evaluation
+- Marketing analytics: attribution, segmentation, campaign measurement
+- Python scripting for automation and data pipeline work
+- Front-end development: Shopify Liquid, HTML/CSS
