@@ -1,5 +1,5 @@
 # Hi, I'm Nick 👋
-Data analyst · DJ · event producer · Seattle
+Data analyst · event producer · Seattle
 
 I'm a data analyst at VML (WPP) in Seattle, working across marketing analytics: dashboards, reporting pipelines, and exploratory analysis for clients. I hold an MS in Business Analytics from Seattle University (2023) and have a background that bridges data, music, and brand-building. Outside of my the day job, I run **Research Seattle LLC**, an independent electronic music event production company. I've spent 10+ years in the Seattle music scene, including a long stint booking at Kremwerk.
 
